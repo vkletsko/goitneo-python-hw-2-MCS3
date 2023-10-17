@@ -1,1 +1,1 @@
-# goitneo-python-hw-2-MCS3
+### GoIT hw 01
